@@ -1,0 +1,3 @@
+basics of git and github 
+git is the sharing of code is centeral code base
+git is a software whareas github is a website
