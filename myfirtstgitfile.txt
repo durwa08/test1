@@ -7,6 +7,6 @@ repositorty - folder
 commit-save
 fort-complete copy
 github issue-complaint
-possiblitiess ko aage lekar aana khelati hai branching
+possiblitiess ko aage lekar aana he hai branching
 bhejne ko - push
 lene ko - pull
